@@ -18,6 +18,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\TicTacToeApp.TicTacToeLib\TicTacToeApp.TicTacToeLib.csproj" />
+    <ProjectReference Include="..\TicTacToeApp.TicTacToeReact\TicTacToeApp.TicTacToeReact.csproj" />
   </ItemGroup>
 
 </Project>
